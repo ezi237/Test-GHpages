@@ -1,0 +1,66 @@
+header{
+    background-color: pink;
+}
+
+h1 {
+ text-transform: uppercase;
+ letter-spacing: 0.5px;
+ font-size: 1.5rem;
+ color: blue;
+ text-shadow: -3px 1px 7px rgb(51, 59, 61);
+ text-align: center;
+ font-family: tahoma;
+}
+.Z {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 9px;
+    left: 9px;
+}
+body{
+    font-family: tahoma;
+    text-align: center;
+    background: url(f.jpg) center/cover;
+    height: 100vh;
+}
+.main {
+    background: rgb(206, 195, 195);
+    height: 88px;
+    margin:   40px auto;
+    padding: 5px;
+    border-radius: 25px;
+    box-shadow: 5 5 0 red;
+}
+.SERIE {
+    background-color: rgb(70, 141, 177);
+backdrop-filter: blur(20px);
+height: 65%;
+box-shadow:2px red;  
+  opacity: 40%;
+
+}
+.h{
+    width:150PX ;
+    height:190PX ;
+    position: relative;
+    top: 0px;
+    left: 0px;
+}
+.g{
+   
+    width:150PX ;
+    height:190PX ;
+    position: relative;
+    top: 0px;
+    left: 6px; 
+}
+.j{
+    
+    width:150PX ;
+    height:190PX ;
+    position: relative;
+    top: 0px;
+    left: 12px; 
+}
+
